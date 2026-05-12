@@ -1,2 +1,2 @@
-# AI-Career-Intelligence-Platform
-Developed an AI-based career intelligence platform designed to analyze skills, provide career insights, improve resume compatibility, and support students with personalized career guidance and professional development recommendations. Technologies: Python, AI, Machine Learning, NLP, Data Analysis
+Developed an AI-powered career guidance platform that analyzes user skills, interests, academic performance, and resume data to provide personalized career recommendations, placement predictions, role analysis, and professional development insights. Implemented machine learning models including Random Forest, Logistic Regression, and Decision Trees with interactive analytics, resume evaluation, and LinkedIn profile analysis features.
+Technologies: Python, Machine Learning, Streamlit, Scikit-learn, Pandas, NumPy, Plotly, NLP
